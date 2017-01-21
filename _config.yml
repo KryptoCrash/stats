@@ -1,3 +1,4 @@
 theme: jekyll-theme-modernist
 title: [Nerd Squad Stats]
 description: [Here you can see the stats of everyone in NS.]
+show_downloads: [true]
